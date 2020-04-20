@@ -1,9 +1,10 @@
-.textarea
+.body
 {
-  display:flex;
+  background:black;
 }
 
 .log
 {
-  display:flex;
+  display: flex;
+  margin: 0px 0px 0px 0px;
 }
