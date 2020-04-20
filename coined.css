@@ -1,4 +1,7 @@
-
+.textarea
+{
+  display:flex;
+}
 
 .log
 {
