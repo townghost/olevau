@@ -3,7 +3,7 @@ body
   background-color:black;
 }
 
-#log
+.log
 {
   display: flex;
   margin: 0px 0px 0px 0px;
