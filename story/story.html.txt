@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html>
+  <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>don't look</title>
+
+   <link href="story_style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+   <div class="outer_container">
+   <div class="background_div">
+   <div class="layout_container">
+     <div id="header_div" style="background-color:coral;display:inline-block;">
+      <p class="class_testing"><i>don't look</i></p></div>
+   <div id="link_container">
+      <div class="link">
+      <div class="link">
+      <div class="link">
+     <div> picture </div>
+   </div>
+   </div>
+</div>
+  </body>
+</html>
